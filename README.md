@@ -1,6 +1,5 @@
 
 Hello Everybody!
-I hope you are doing great.
 I have extensive experience in developing web and mobile applications using various frameworks and technologies. In particular, I specialize in the following:
 
 ✨ChatGPT integration✨
